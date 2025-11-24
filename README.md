@@ -1,4 +1,4 @@
-#Python Blackjack Game
+Python Blackjack Game
 Overview
 This project is a simple command-line Blackjack game where a player competes against the computer dealer. It deals cards, calculates scores with Ace adjustment, and determines the winner based on classic Blackjack rules.
 
@@ -26,6 +26,10 @@ Ensure Python 3.x is installed.
 Install the art package using pip install art.
 
 Run the script:
+
+text
+python blackjack.py
+Follow on-screen prompts to play.
 
 text
 python blackjack.py
